@@ -1,0 +1,13 @@
+=== BRAINLINK EXTRACTED PARAMETERS ===
+Source: Henze et al. 2000, CRCNS hc-1, Session d13921
+Brain Region: Hippocampus CA1
+Date extracted: 20 September 2026
+
+Noise floor (ch1): 31.304 uV
+Mean voltage (ch1): -3.101 uV
+Detection threshold: -156.52 uV
+Total spikes detected: 26,759
+Firing rate (ch1): 111.5 Hz
+Mean peak amplitude: -179.78 uV
+Spike duration: 3.0 ms
+Waveform samples: 60 samples at 20kHz

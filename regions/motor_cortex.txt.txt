@@ -1,0 +1,36 @@
+=== BRAINLINK MOTOR CORTEX PARAMETERS ===
+Source: Li et al. 2015, Nature 519:51-56, CRCNS alm-1
+Animal: ANM218453, Session: 20131015
+Brain Region: Anterior Lateral Motor Cortex (ALM), Mouse
+Lab: Svoboda lab, Janelia Research Campus
+
+=== DIRECTLY EXTRACTED FROM REAL DATA ===
+Spike duration: 1.45 ms (29 samples at 20kHz)
+Total waveforms analyzed: 65,913 across 10 units
+ADC resolution: 14-bit
+Bandpass filter: 300-6000 Hz
+
+Pyramidal neuron firing rates: 0.28-1.49 Hz (mean ~0.7 Hz)
+FS interneuron firing rates: 5.27-8.28 Hz (mean ~6.9 Hz)
+Overall mean firing rate: 2.49 Hz
+Overall mean ISI: 1238.06 ms
+
+Cell type distribution (from lab classification):
+- unit_01: pyramidal (5.27 Hz)
+- unit_02: FS (7.28 Hz)
+- unit_03: pyramidal (0.51 Hz)
+- unit_04: FS (0.55 Hz)
+- unit_05: pyramidal (0.54 Hz)
+- unit_06: pyramidal (1.18 Hz)
+- unit_07: pyramidal (0.59 Hz)
+- unit_08: FS (8.28 Hz)
+- unit_09: pyramidal (0.28 Hz)
+- unit_10: pyramidal and IT (1.49 Hz)
+
+=== FROM LITERATURE (Li et al. 2015) ===
+Noise floor: 45.00 uV
+Spike amplitude: -150.00 uV (scaled from raw ADC)
+
+Session description: Extracellular ephys recording of mouse doing 
+discrimination task (lick left/right), with optogenetic stimulation 
+plus pole and auditory stimulus
